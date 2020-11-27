@@ -27,4 +27,6 @@ h2#rebeccapurple{
     background-color: #00ff00;
     text-align: center;
 }
-background-image: url(../images/back2.jpg);
+body{
+    background-image: url(../images/back2.jpg);
+}
